@@ -16,8 +16,8 @@ Resident AI translates personal habits and real-time weather into a cooling reco
 The HDB AI helps calculate the cumulative impact of all units in the HDB block. The Block Heat Index reveals overall thermal stress, while “Your Contribution” makes each household’s role visible. When conditions are suboptimal, the Block AI proposes small, time-bound adjustments. Residents can accept or negotiate, reinforcing the idea that collective comfort and environmental responsibility are achieved through informed, voluntary coordination.
 
 ## Tech Stack
-Front-End: TypeScript
-API Calls: Vercel AI SDK, Singapore NEA Weather API
-Database: SQLLite
-Workflow: Vercel AI SDK, LangChain
+- Front-End: TypeScript
+- API Calls: Vercel AI SDK, Singapore NEA Weather API
+- Database: SQLLite
+- Workflow: Vercel AI SDK, LangChain
 
